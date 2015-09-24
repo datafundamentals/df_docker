@@ -1,5 +1,5 @@
 # df_docker
 
-TODO: Enter the cookbook description here.
+This is a quick and dirty chef recipe, designed to be run from a kitchen converge command.
 
-# df_docker
+It is consumed by dfdevm_docker_maven.
